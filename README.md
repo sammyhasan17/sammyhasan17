@@ -9,31 +9,27 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and aspiring Machine
 - 🎓 **Education:** Bachelor's degree in Computer Science
 - 💼 **Current Role:** Data Analyst Intern at TIAA
 - 💡 **Skills:**
-  - Python Development (1+ year)
+  - Python Development (3+ years)
   - Machine Learning with TensorFlow and PyTorch
   - Data Analysis and Visualization
   - Cloud Services: Microsoft Azure, AWS SageMaker
-  - Version Control: GitHub
+  - SQL Certified
+
 
 ## 🔍 Interests
 
-- 🧠 **Brain Food:** Machine Learning, AI, and Data Science
-- 📈 **Projects:** I'm always working on exciting data projects, from data mining to building predictive models.
-- 🌐 **Community:** I love contributing to open-source projects and learning from the developer community.
+- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and studying winners
 
 ## 💪 Experience
 
-- 📊 **Sales Experience:** 2 years at GNC, where I honed my communication and customer service skills.
+- 📊 **Sales Experience:** 3 years at GNC, where I developed distinguished communication skills
 - 🛠️ **Technical Projects:** Developing dashboards using Tableau and PowerBI, integrating APIs, and deploying AI models in cloud environments.
 
 ## 📫 Let's Connect!
-
-- 💼 **LinkedIn:** [Sam Hasan-Silva](https://www.linkedin.com/in/sam-hasan-silva)
-- 🐦 **Twitter:** [@SamHasanSilva](https://twitter.com/SamHasanSilva)
-- 📧 **Email:** sam.hasan.silva@example.com
+- 💼 **LinkedIn:** [Sam Hasan-Silva]([https://www.linkedin.com/in/sam-hasan-silva](https://github.com/sammyhasan17))
 
 ## 🌱 Fun Facts
 
-- 🚴 I love cycling and exploring new trails.
-- 🎨 I'm an avid chess player and enjoy writing at coffee shops.
-- 📚
+- 🚴 I love lifting and winning
+- 🎨 I'm an novice chess player and enjoy reading at coffee shops.
+
