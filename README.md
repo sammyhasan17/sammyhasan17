@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and aspiring Machine
 - 🛠️ **Technical Projects:** Developing dashboards using Tableau and PowerBI, integrating APIs, and deploying AI models in cloud environments.
 
 ## 📫 Let's Connect!
-- 💼 **LinkedIn:** [Sam Hasan-Silva]([https://www.linkedin.com/in/sam-hasan-silva](https://github.com/sammyhasan17))
+- 💼 **LinkedIn:** [[Sam Hasan-Silva]([https://www.linkedin.com/in/sam-hasan-silva](https://github.com/sammyhasan17))](https://www.linkedin.com/in/sammy-hasan-silva/)
 
 ## 🌱 Fun Facts
 
