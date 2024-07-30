@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Sam Hasan-Silva
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst and aspiring Machine Learning Engineer, always excited to explore new technologies and solve complex problems.
+Welcome to my GitHub profile, I'm a passionate Data Analyst and aspiring Machine Learning Engineer, always excited to explore new technologies and solve complex problems.
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and aspiring Machine
   - Python Development (3+ years)
   - Machine Learning with TensorFlow and PyTorch
   - Data Analysis and Visualization
-  - Cloud Services: Microsoft Azure, AWS SageMaker
+  - Cloud Services: AWS, Microsoft Azure
   - SQL Certified
 
 
