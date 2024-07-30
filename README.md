@@ -10,18 +10,17 @@ Welcome to my GitHub profile, I'm a Computer Scientist, always excited to explor
   - Python Development (3+ years)
   - Machine Learning with TensorFlow and PyTorch
   - Data Analysis and Visualization
-  - Cloud Services: AWS, Microsoft Azure
+  - Cloud Services: AWS, Microsoft Azure, GCP
   - SQL Certified
 
 
 ## 🔍 Interests
 
-- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and studying winners
+- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Reading about Winners
 
 ## 💪 Experience
 
 - 📊 **Sales Experience:** 3 years at GNC, where I developed distinguished communication skills
-- 🛠️ **Technical Projects:** Developing dashboards using Tableau and PowerBI, integrating APIs, and deploying AI models in cloud environments.
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [Sam's Profile](https://www.linkedin.com/in/sammy-hasan-silva/)!
