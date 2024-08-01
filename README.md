@@ -6,6 +6,7 @@ Welcome to my GitHub profile, I'm a Computer Scientist, always excited to explor
 
 - 🎓 **Education:** Bachelor's degree in Computer Science
 - 💼 **Current Role:** Data Analyst Intern at TIAA
+  
 - 💡 **Skills:**
   - Python Development (3+ years)
   - Machine Learning with TensorFlow and PyTorch
@@ -16,7 +17,7 @@ Welcome to my GitHub profile, I'm a Computer Scientist, always excited to explor
 
 ## 🔍 Interests
 
-- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Reading about Winners
+- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Studying Winners
 
 ## 💪 Experience
 
