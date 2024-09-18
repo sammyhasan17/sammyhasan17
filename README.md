@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Sam Hasan-Silva
 
-Welcome to my GitHub profile, I'm a Computer Scientist, always excited to explore new technologies and solve complex problems.
+Welcome to my GitHub profile, I'm a Computer Scientist, always excited to explore new technologies, solve complex problems and build the future.
 
 ## 🚀 About Me
 
