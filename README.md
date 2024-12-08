@@ -20,14 +20,14 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 - 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Studying Winners
 
-## 💪 Experience
+## 💪 Other Skills
 
-- 📊 **Sales Experience:** 3 years at GNC, where I developed distinguished communication skills
+- 📊 **Sales Experience:** 3 years at GNC, where I developed kickass sales skills
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [Sam's Profile](https://www.linkedin.com/in/sammy-hasan-silva/)!
 
 ## 🌱 Fun Facts
-- 🚴 I love lifting and winning
+- 🚴 I love lifting and Learning about Startups
 - 🎨 I'm an novice chess player and enjoy reading at coffee shops.
 
