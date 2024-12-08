@@ -1,18 +1,19 @@
 # 👋 Hello, World! I'm Sam Hasan-Silva
 
-Welcome to my GitHub profile, I'm a Computer Scientist, always excited to explore new technologies, solve complex problems and build the future.
+Welcome to my GitHub profile, always excited to explore new technologies, solve complex problems and build the future.
 
 ## 🚀 About Me
 
 - 🎓 **Education:** Bachelor's degree in Computer Science
-- 💼 **Current Role:** Data Analyst Intern at TIAA
+- 💼 **Current Role:** Data Analyst at Jacuzzi Group
   
 - 💡 **Skills:**
-  - Python Development (3+ years)
+  - Python Development
   - Machine Learning with TensorFlow and PyTorch
   - Data Analysis and Visualization
   - Cloud Services: AWS, Microsoft Azure, GCP
   - SQL Certified
+  - Financial Planning & Analysis
 
 
 ## 🔍 Interests
