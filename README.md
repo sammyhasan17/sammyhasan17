@@ -22,7 +22,7 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 ## 💪 Other Skills
 
-- 📊 **Sales Experience:** 3 years at GNC, where I developed kickass sales skills
+- 📊 **Sales Experience:** 3 years at GNC, where I developed sales strong communication skills
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [Sam's Profile](https://www.linkedin.com/in/sammy-hasan-silva/)!
