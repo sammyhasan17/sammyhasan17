@@ -12,8 +12,7 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
   - Machine Learning with TensorFlow and PyTorch
   - Data Analysis and Visualization
   - Cloud Services: AWS, Microsoft Azure, GCP
-  - SQL Certified
-  - Financial Planning & Analysis
+  - SQL & Visualization
 
 
 ## 🔍 Interests
