@@ -5,7 +5,7 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 ## 🚀 About Me
 
 - 🎓 **Education:** Bachelor's degree in Computer Science
-- 💼 **Current Role:** Data Analyst at Jacuzzi Group
+- 💼 **Current Role:** Data Analyst at Jacuzzi Group | Corporate Finance
   
 - 💡 **Skills:**
   - Python Development
