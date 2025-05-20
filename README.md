@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Sam Hasan-Silva
 
-Welcome to my GitHub profile, always excited to explore new technologies, solve complex problems and build the future.
+Welcome to my GitHub profile, always excited to explore new technologies, solve complex problems and build .
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 ## 🔍 Interests
 
-- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Studying Winners
+- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Studying Founders
 
 ## 💪 Other Skills
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 ## 🌱 Fun Facts
 - 🚴 I love lifting and Learning about Startups
-- 🎨 I'm an novice chess player and enjoy reading at coffee shops.
+- 🎨 I like Chess, learning Bachata and Finance/Business Movies
 
 ## Languages and Tools:
 
