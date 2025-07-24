@@ -21,19 +21,16 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 ## 💪 Other Skills
 
-- 📊 **Sales Experience:** 3 years at GNC, where I developed sales strong communication skills
-
-## 📫 Let's Connect!
-- 💼 **LinkedIn:**
-
-- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://yourportfolio.com)
-
-
+- 📊 **Sales Experience:** 3 years at GNC, where I developed elite communication skills
 
 ## 🌱 Fun Facts
 - 🚴 I love lifting and Learning about Startups
 - 🎨 I like Chess, learning Bachata and Finance/Business Movies
+
+## 📫 More!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://yourportfolio.com)
 
 ## Languages and Tools:
 
