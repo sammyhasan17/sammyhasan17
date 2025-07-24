@@ -29,8 +29,8 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 ## 📫 More!
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammy-hasan-silva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjo%2FFxoqHThqUXPpFYWON9g%3D%3D)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://sammyhasan17.github.io/test-repo2/)
 
 ## Languages and Tools:
 
