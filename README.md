@@ -21,7 +21,7 @@ Welcome to my GitHub profile, always excited to explore new technologies, solve 
 
 ## 💪 Other Skills
 
-- 📊 **Sales Experience:** 3 years at GNC, where I developed elite communication skills
+- 📊 **Sales Experience:** 3 years at GNC, where I Developed Elite Communication Skills
 
 ## 🌱 Fun Facts
 - 🚴 I love lifting and Learning about Startups
