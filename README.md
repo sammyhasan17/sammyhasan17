@@ -17,7 +17,7 @@ Welcome to my GitHub profile,always excited to build things that solve real worl
 
 ## 🔍 Interests
 
-- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, Nutrition and Studying Founders
+- 🧠 **Brain Food:** AI, Entrepreneurship, Self-Development, Finance, and Studying Founders
 
 ## 💪 Other Skills
 
