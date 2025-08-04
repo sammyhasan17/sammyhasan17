@@ -8,11 +8,13 @@ Welcome to my GitHub profile,always excited to build things that solve real worl
 - 💼 **Current Role:** Data Analyst at Jacuzzi Group | Corporate Finance
   
 - 💡 **Skills:**
-  - Python Development
+  - Python Development                                                  
   - Machine Learning with TensorFlow and PyTorch
   - Data Analysis and Visualization
   - Cloud Services: AWS, Microsoft Azure, GCP
   - SQL & Visualization
+    
+ 
 
 
 ## 🔍 Interests
@@ -31,6 +33,11 @@ Welcome to my GitHub profile,always excited to build things that solve real worl
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammy-hasan-silva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjo%2FFxoqHThqUXPpFYWON9g%3D%3D)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://sammyhasan17.github.io/test-repo2/)
+
+<p>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d5f77c104128975.5f5bdc0d6d7b6.gif" width="300" height="300">
+</p>
+
 
 ## Languages and Tools:
 
