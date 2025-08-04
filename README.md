@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Sam Hasan-Silva
 
-Welcome to my GitHub profile, always excited to build things that solve real world problems
+Welcome to my GitHub profile, always excited to build things that solve real problems
 
 ## 🚀 About Me
 
