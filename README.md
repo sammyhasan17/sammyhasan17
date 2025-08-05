@@ -10,9 +10,8 @@ Welcome to my GitHub profile, always excited to build things that solve real pro
 - 💡 **Skills:**
   - Python Development                                                  
   - Machine Learning with TensorFlow and PyTorch
-  - Data Analysis and Visualization
-  - Cloud Services: AWS, Microsoft Azure, GCP
-  - SQL & Visualization
+  - Cloud Services: AWS (Bedrock, S3, EC2, SageMaker, DynamoDB etc.), Microsoft Azure, GCP
+  - SQL & Visualization (PowerBI & Qlikview)
     
 
 ## 🔍 Interests
@@ -42,5 +41,5 @@ Welcome to my GitHub profile, always excited to build things that solve real pro
 </p>
 
 ## 🌱 Fun Facts
-- 🚴 I love lifting and Learning about Startups
-- 🎨 I like Chess, learning Bachata and Finance/Business Movies
+- 🚴 I love lifting and learning about startups
+- 🎨 I like Chess, dancing bachata and watching finance/business movies
