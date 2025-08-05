@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Sam Hasan-Silva
+# 👋 Hey! I'm Sam Hasan-Silva
 
 Welcome to my GitHub profile, always excited to build things that solve real problems
 
