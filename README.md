@@ -1,8 +1,4 @@
 [![](https://github.com/sammyhasan17/texting/blob/main/thread.svg)](https://github.com/sammyhasan17)
-
-
-Welcome to my GitHub profile, always excited to build things that solve real problems
-
 ## 🚀 About Me
 
 - 🎓 **Education:** Bachelor's degree in Computer Science
