@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Sam Hasan-Silva
+![](https://github.com/sammyhasan17/texting/blob/main/thread.svg)
 
 Welcome to my GitHub profile, always excited to build things that solve real problems
 
