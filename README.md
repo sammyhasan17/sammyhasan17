@@ -6,7 +6,7 @@
   
 - 💡 **Skills:**
   - Python Development                                                  
-  - Machine Learning with TensorFlow and PyTorch
+  - Machine Learning with TensorFlow, PyTorch, XGBoost etc.
   - Cloud Services: AWS (Bedrock, S3, EC2, SageMaker, DynamoDB etc.), Microsoft Azure, GCP
   - SQL & Visualization (PowerBI & Qlikview)
     
