@@ -5,10 +5,10 @@
 - 💼 **Current Role:** Data Analyst at Jacuzzi Group | Corporate Finance
   
 - 💡 **Skills:**
-  - Python Development                                                  
+  - Python Development
+  - SQL & Visualization (PowerBI & Qlikview)                                              
   - Machine Learning with TensorFlow, PyTorch, XGBoost etc.
   - Cloud Services: AWS (Bedrock, S3, EC2, SageMaker, DynamoDB etc.), Microsoft Azure, GCP
-  - SQL & Visualization (PowerBI & Qlikview)
     
 
 ## 🔍 Interests
