@@ -13,7 +13,7 @@
 
 ## 🔍 Interests
 
-- 🧠 **Brain Food:** AI, Entrepreneurship, Finance, and Studying Founders
+- 🧠 **Brain Food:** AI, Coding Projects, Finance, and Studying Founders
 
 ## 💪 Other Skills
 
