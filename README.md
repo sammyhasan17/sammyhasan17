@@ -1,5 +1,4 @@
  
- ![](https://api.visitorbadge.io/api/VisitorHit?user=sammyhasan17f&repo=github-visitors-badge&countColor=%237B1E7A)
 
 [![](https://github.com/sammyhasan17/texting/blob/main/thread.svg)](https://github.com/sammyhasan17)
 ## 🚀 About Me
@@ -44,3 +43,5 @@
 ## 🌱 Fun Facts
 - 🚴 I love lifting and learning about startups
 - 🎨 I like Chess, dancing bachata and watching finance/business movies
+
+-  ![](https://api.visitorbadge.io/api/VisitorHit?user=sammyhasan17f&repo=github-visitors-badge&countColor=%237B1E7A)
