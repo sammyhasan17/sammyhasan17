@@ -17,7 +17,7 @@
 
 ## 💪 Other Skills
 
-- 📊 **Sales Experience:** 3 years at GNC, where I Developed Elite Communication Skills
+- 📊 **Sales Experience:** 3+ years at GNC, where I Developed Elite Communication Skills
 
 ## Languages and Tools:
 
