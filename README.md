@@ -1,3 +1,6 @@
+ 
+ ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 [![](https://github.com/sammyhasan17/texting/blob/main/thread.svg)](https://github.com/sammyhasan17)
 ## 🚀 About Me
 
@@ -9,6 +12,7 @@
   - SQL & Automated Visualizations (PowerBI & Qlikview)                                              
   - Machine Learning with TensorFlow, PyTorch, XGBoost etc.
   - Cloud Services: AWS (Bedrock, S3, EC2, SageMaker, DynamoDB etc.), Microsoft Azure, GCP
+
     
 
 ## 🔍 Interests
