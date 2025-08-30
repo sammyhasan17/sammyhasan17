@@ -37,6 +37,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://sammyhasan17.github.io/portfolio/)
 
 <p>
+  <img src="robot_image.png" width="250" height="250">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d5f77c104128975.5f5bdc0d6d7b6.gif" width="300" height="300">
   <img src="robot_image.png" width="250" height="250">
 </p>
