@@ -1,7 +1,7 @@
  
 
 [![](https://github.com/sammyhasan17/texting/blob/main/thread.svg)](https://github.com/sammyhasan17)
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🎓 **Education:** Bachelor's degree in Computer Science
 - 💼 **Current Role:** Data Analyst at Jacuzzi Group | Corporate Finance
