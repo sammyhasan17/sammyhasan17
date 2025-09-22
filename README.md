@@ -9,7 +9,7 @@
 - 💡 **Skills:**
   - Python Development
   - SQL & Automated Visualizations (PowerBI & Qlikview)                                              
-  - Machine Learning with TensorFlow, PyTorch, XGBoost etc.
+  - Machine Learning with TensorFlow, PyTorch, XGBoost, scikit-learn etc.
   - Cloud Services: AWS (Bedrock, S3, EC2, SageMaker, DynamoDB etc.), Microsoft Azure, GCP
   - Snowflake Data Warehousing Certified ❄️
 
