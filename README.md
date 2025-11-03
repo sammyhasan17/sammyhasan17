@@ -9,10 +9,11 @@
   
 - 💡 **Skills:**
   - Python Development
-  - SQL & Automated Visualizations (PowerBI & Qlikview)                                              
+  - SQL & Automated Visualizations (PowerBI & Qlikview)   
+  - Snowflake Data Warehousing & Data Engineer Certified ❄️                                             
   - Machine Learning with TensorFlow, PyTorch, XGBoost, scikit-learn etc.
   - Cloud Services: AWS (Bedrock, S3, EC2, SageMaker etc.), Microsoft Azure (Fabric, Azure AD/Entra, PowerBI API)
-  - Snowflake Data Warehousing Certified ❄️
+
 
     
 
