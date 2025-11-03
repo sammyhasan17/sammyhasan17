@@ -4,7 +4,7 @@
 ## 🚀 About Me 
 
 - 🎓 **Education:** Bachelor's degree in Computer Science
-- 💼 **Current Role:** Data Analyst at Jacuzzi Group | Corporate Finance
+- 💼 **Current Role:** Data Engineer | @ Fiserv 
 - 
   
 - 💡 **Skills:**
